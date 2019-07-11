@@ -4,7 +4,7 @@ This is just a minimal repo for testing Sonatype's `depshield` against an intent
 dependencies.
 
 # 1
-![depshield](https://cpeters1.dev.depshield.sonatype.org/badges/louisrdev/intentionally-vulnerable-golang-project/depshield.svg)
+![depshield](https://cpeters1.dev.depshield.sonatype.org/badges/collinpeters/intentionally-vulnerable-golang-project/depshield.svg)
 
 # 2
-![depshield](https://cpeters2.dev.depshield.sonatype.org/badges/louisrdev/intentionally-vulnerable-golang-project/depshield.svg)
+![depshield](https://cpeters2.dev.depshield.sonatype.org/badges/collinpeters/intentionally-vulnerable-golang-project/depshield.svg)
