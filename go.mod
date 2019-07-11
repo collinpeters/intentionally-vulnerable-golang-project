@@ -16,3 +16,4 @@ replace github.com/louisrdev/intentionally-vulnerable-golang-project/sub1 => ./s
 replace github.com/louisrdev/intentionally-vulnerable-golang-project/sub2 => ./sub2
 
 replace github.com/louisrdev/intentionally-vulnerable-golang-project/sub3 => ./sub3
+
